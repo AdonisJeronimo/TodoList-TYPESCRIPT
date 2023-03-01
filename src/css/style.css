@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+  }
+
+#reminderSet {
+    display: none;
+}
+#tasksList{
+    white-space: pre-line;
+    list-style: none;
+}
